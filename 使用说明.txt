@@ -1,0 +1,8 @@
+如果需要自行部署，请修改文件 _headers 中的域名 一级域名 如 *.xos.icu 以及二级域名 os.xos.icu 请自己替换。
+修改 /index.html 文件里域名替换为新域名。
+修改 /js/script.js 文件里域名替换为新域名。
+
+自行部署网站要求Nginx支持读取 _headers 文件，也可以直接上传整包部署到 Vercel、Netlify、Cloudflare Pages里。
+
+
+
